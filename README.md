@@ -27,25 +27,25 @@ directory.
 This required text file contains the initial account cash 
 and positions, the transactions that occurred, and the final 
 reported cash and positions. A simple example is as follows: 
->D0-POS
->AAPL 100
->GOOG 200
->SP500 175.75
->Cash 1000
+>D0-POS\n
+>AAPL 100\n
+>GOOG 200\n
+>SP500 175.75\n
+>Cash 1000\n
 >
->D1-TRN
->AAPL SELL 100 30000
->GOOG BUY 10 10000
->Cash DEPOSIT 0 1000
->Cash FEE 0 50
->GOOG DIVIDEND 0 50
->TD BUY 100 10000
+>D1-TRN\n
+>AAPL SELL 100 30000\n
+>GOOG BUY 10 10000\n
+>Cash DEPOSIT 0 1000\n
+>Cash FEE 0 50\n
+>GOOG DIVIDEND 0 50\n
+>TD BUY 100 10000\n
 >
->D1-POS
->GOOG 220
->SP500 175.75
->Cash 20000
->MSFT 10
+>D1-POS\n
+>GOOG 220\n
+>SP500 175.75\n
+>Cash 20000\n
+>MSFT 10\n
 
 ## Authorship and Acknowledgements
 Elizabeth Johnson wrote the contents of this directory based on
