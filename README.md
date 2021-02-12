@@ -21,8 +21,8 @@ The resulting output file, "recon.out" will appear in this
 directory.
 
 ## Requirements
--Python 3.x 
--"recon.in" text file w/ appropriate formatting: 
+* Python 3.x 
+* "recon.in" text file w/ appropriate formatting: 
 ### recon.in
 This required text file contains the initial account cash 
 and positions, the transactions that occurred, and the final 
