@@ -1,7 +1,7 @@
 # Unit Reconciliation
 
 ## Project Overview
-This directory contains Python (3.x) scripts for unit reconciliation, 
+This directory contains Python scripts for unit reconciliation, 
 the process of comparing financial transaction history to the
 bank's records. For example, at the beginning of a day a 
 shareholder may own 100 shares of Apple stock. During the day, 
@@ -12,8 +12,7 @@ differences.
 
 ## Getting Started
 To jump right in, assuming you have installed required dependencies
-listed below, open a Terminal/Command Prompt and navigate to this
-directory. Then run: 
+listed below, open a Terminal/Command Prompt and then run: 
 ```
 python UnitReconciliation.py
 ```
